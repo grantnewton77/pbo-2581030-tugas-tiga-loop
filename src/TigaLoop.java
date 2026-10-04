@@ -108,7 +108,7 @@ public class TigaLoop {
          */
 
         /*
-         * HASIL RUM PERTAMA (n = 5)
+         * HASIL RUN PERTAMA (n = 5)
          *
          * Batas deret (n) : 5
          *
@@ -124,6 +124,7 @@ public class TigaLoop {
          *
          * Process finished with exit code 0
          */
+
 
         /*
          * HASIL RUN KEDUA (n = 0)
@@ -142,6 +143,8 @@ public class TigaLoop {
          *
          * Process finished with exit code 0
          *
+         * Kesimpulan: do-while mengecek kondisinya sesudah badan loop dijalankan,
+         * jadi badannya pasti jalan minimal sekali.
          */
     }
 }
